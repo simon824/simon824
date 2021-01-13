@@ -1,4 +1,10 @@
+## Hey, ouuan here! :wave:
+
+I'm Simon, A Bigdata Engineer from GuangZhou, China.
+
 ![](https://github-readme-stats.vercel.app/api?username=simon824)
+
+---
 
 > 欢迎关注 [分布式图数据库 JanusGraph 中文社区](https://github.com/simon824/janusgraph.cn)
 
