@@ -1,6 +1,6 @@
-## Hey, ouuan here! :wave:
+## Hey, simon here! :wave:
 
-I'm Simon, A Bigdata Engineer from GuangZhou, China.
+I'm simon, a bigdata engineer from GuangZhou, China.
 
 ![](https://github-readme-stats.vercel.app/api?username=simon824)
 
