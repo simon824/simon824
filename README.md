@@ -1,5 +1,6 @@
-## Hey, simon here! :wave:
+## Hey, Simon here! :wave:
 
+![](https://github.com/simon824/simon824/blob/main/readme.png)
 
 ![](https://github-readme-stats.vercel.app/api?username=simon824)
 
