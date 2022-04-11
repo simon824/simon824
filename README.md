@@ -1,7 +1,24 @@
 ## Hey, Simon here! :wave:
+![wechat](https://img.shields.io/badge/wechat-shirning【注明来意】-blue)
+[![Mail Badge](https://img.shields.io/badge/E--mail-ming@apache.org-white.svg)](mailto:ming@apache.org)
+![GitHub followers](https://img.shields.io/github/followers/simon824?style=social)
+![Visitor Count](https://komarev.com/ghpvc/?username=simon824)
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=simon824" />
+Hi, I'm simon, a big data developer and open source enthusiast.
+- 🪶 Apache Software Foundation
+    - Apache [SeaTunnel](https://github.com/apache/incubator-seatunnel) Committer   
+    - Apache [HugeGraph](https://github.com/apache/incubator-hugegraph) & 
+[DolphinScheduler](https://github.com/apache/dolphinscheduler) & 
+[Hudi](https://github.com/apache/hudi)  & 
+[Kyuubi](https://github.com/apache/incubator-kyuubi)  Contributor  
+- 👨🏻‍💻 My Projects
+    - [janusgraph-externals](https://github.com/simon824/janusgraph-externals) ![GitHub Repo stars](https://img.shields.io/github/stars/simon824/janusgraph-externals?style=social) 
 
+<br> ![](https://github.com/simon824/simon824/blob/main/readme.png)
+
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=simon824&show_icons=true&title_color=fff&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117&border_color=333" />
+
+[comment]: <> "https://github.com/simple-icons/simple-icons/blob/develop/slugs.md"
 <br><br>  💻 &#160; 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FCC624)
 ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=Scala&logoColor=FCC624)
@@ -19,6 +36,3 @@
 🛠 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
- <br><br><br><br> ![](https://github.com/simon824/simon824/blob/main/readme.png)
-
