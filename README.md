@@ -1,7 +1,7 @@
 ## Hey, Simon here! :wave:
-![wechat](https://img.shields.io/badge/wechat-shirning-blue)
-[![Mail Badge](https://img.shields.io/badge/E--mail-ming@apache.org-blue.svg)](mailto:ming@apache.org)
-![GitHub followers](https://img.shields.io/github/followers/simon824)
+![wechat](https://img.shields.io/badge/wechat-shirning-green)
+[![Mail Badge](https://img.shields.io/badge/E--mail-ming@apache.org-red.svg)](mailto:ming@apache.org)
+![GitHub followers](https://img.shields.io/github/followers/simon824?color=yellow)
 ![Visitor Count](https://komarev.com/ghpvc/?username=simon824)
 
 Hi, I'm simon, a big data developer and open source enthusiast.
