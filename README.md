@@ -6,9 +6,9 @@
 
 Hi, I'm simon, a big data developer and open source enthusiast.
 - 🪶 Apache Software Foundation
+    - Apache [HugeGraph](https://github.com/apache/incubator-hugegraph) Committer
     - Apache [SeaTunnel](https://github.com/apache/incubator-seatunnel) Committer   
-    - Apache [HugeGraph](https://github.com/apache/incubator-hugegraph) & 
-[DolphinScheduler](https://github.com/apache/dolphinscheduler) & 
+    - Apache [DolphinScheduler](https://github.com/apache/dolphinscheduler) & 
 [Hudi](https://github.com/apache/hudi)  & 
 [Kyuubi](https://github.com/apache/incubator-kyuubi)  Contributor  
 - 👨🏻‍💻 My Projects
