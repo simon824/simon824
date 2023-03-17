@@ -23,7 +23,8 @@ Hi, I'm simon, a big data developer and open source enthusiast.
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FCC624)
 ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=Scala&logoColor=FCC624)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=FCC624)  
 ⚙️ &#160; 
 ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apachespark)
 ![Flink](https://img.shields.io/badge/-Flink-333333?style=flat&logo=apacheflink)
