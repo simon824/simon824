@@ -33,7 +33,8 @@ Hi, I'm simon, a big data developer and open source enthusiast.
 💾 &#160; 
 ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apachehadoop)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
-![elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)  
+![elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)
+![HugeGraph](https://img.shields.io/badge/-HugeGraph-333333?style=flat&logo=HugeGraph&logoColor=FCC624)  
 🛠 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
