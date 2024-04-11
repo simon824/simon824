@@ -4,9 +4,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/simon824?color=yellow)
 ![Visitor Count](https://komarev.com/ghpvc/?username=simon824)
 
-Hi, I'm simon, a big data developer and open source enthusiast.
+Focus on `Distributed System`, `Graph Database/ML/DL`.
 - 🪶 Apache Software Foundation
-    - Apache [HugeGraph](https://github.com/apache/incubator-hugegraph) Committer
+    - Apache [HugeGraph](https://github.com/apache/incubator-hugegraph) PMC ([hugegraph-ai](https://github.com/apache/incubator-hugegraph-ai) Creator)
     - Apache [SeaTunnel](https://github.com/apache/incubator-seatunnel) Committer   
     - Apache [DolphinScheduler](https://github.com/apache/dolphinscheduler) & 
 [Hudi](https://github.com/apache/hudi)  & 
