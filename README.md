@@ -8,11 +8,13 @@ Focus on `Distributed System`, `Graph Database/ML/DL`.
 - 🪶 Apache Software Foundation
     - Apache [HugeGraph](https://github.com/apache/incubator-hugegraph) PMC ([hugegraph-ai](https://github.com/apache/incubator-hugegraph-ai) Creator)
     - Apache [SeaTunnel](https://github.com/apache/incubator-seatunnel) Committer   
+- 👨🏻‍💻 My projects
+    - [janusgraph-externals](https://github.com/simon824/janusgraph-externals) ![GitHub Repo stars](https://img.shields.io/github/stars/simon824/janusgraph-externals?style=social) 
+- 🔥 Projects participated in
+    - [LangChain](https://github.com/langchain-ai/langchain) Contributor
     - Apache [DolphinScheduler](https://github.com/apache/dolphinscheduler) & 
 [Hudi](https://github.com/apache/hudi)  & 
 [Kyuubi](https://github.com/apache/incubator-kyuubi)  Contributor  
-- 👨🏻‍💻 My Projects
-    - [janusgraph-externals](https://github.com/simon824/janusgraph-externals) ![GitHub Repo stars](https://img.shields.io/github/stars/simon824/janusgraph-externals?style=social) 
 
 <br> ![](https://github.com/simon824/simon824/blob/main/readme.png)
 
