@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/simon824?color=yellow)
 ![Visitor Count](https://komarev.com/ghpvc/?username=simon824)
 
-Focus on `Distributed System`, `Graph Database/ML/DL`.
+Focus on `Graph Intelligence`, `Large Language Model`, `Distributed System`
 - 🪶 Apache Software Foundation
     - Apache [HugeGraph](https://github.com/apache/incubator-hugegraph) PMC ([hugegraph-ai](https://github.com/apache/incubator-hugegraph-ai) Creator)
     - Apache [SeaTunnel](https://github.com/apache/incubator-seatunnel) Committer   
